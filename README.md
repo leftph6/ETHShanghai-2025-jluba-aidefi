@@ -6,7 +6,7 @@
 - 🤖 AI预测模块（Python）
 - 🔗 智能合约（Solidity）
 - 🎨 前端界面（React + Vite）
-
+https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/7c6021bf3649ebfeb021bbda187a8d41/15fa5eeb-3eaf-4b5a-b3d1-69331630b05a/index.html
 ## 系统架构
 
 ```
