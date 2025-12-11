@@ -288,8 +288,6 @@ MIT License
 
 ## 联系方式
 
-如有问题，请提交Issue或联系开发团队。
+mathewmattma@gmail.com
 
----
 
-**祝您使用愉快！** 🚀
